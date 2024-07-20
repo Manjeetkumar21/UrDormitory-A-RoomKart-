@@ -483,7 +483,7 @@ int main()
 
                 system("cls");
 
-                dormitory()
+                dormitory();
                 printf("\tWelcome in UrDormitory\n\n");
 
                 printf("Please Enter the City : ");
