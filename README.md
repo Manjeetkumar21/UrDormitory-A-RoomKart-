@@ -23,19 +23,17 @@ UrDormitory is a C-based application that provides users with details of vacant 
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/Manjeetkumar21/UrDormitory-A-RoomKart-.git
 ```
-2. **Navigate the project**
+2. **Navigate the project directory:**
 ```bash
-  cd urdormitory
-
-
+    cd urdormitory
 ```
-2. **Compile the code using c compiler**
+
+2. **Compile the code using c compiler:**
 ```bash
   gcc -o urdormitory Project.c
-
 ```
 ## Usage
 
