@@ -31,7 +31,13 @@ UrDormitory is a C-based application that provides users with details of vacant 
     cd urdormitory
 ```
 
-2. **Compile the code using c compiler:**
+3. **Move all the room details text files from the folder to the main project directory:**
+```bash
+    mv rooms/* .
+    rmdir rooms
+```
+
+4. **Compile the code using c compiler:**
 ```bash
   gcc -o urdormitory Project.c
 ```
